@@ -1,0 +1,16 @@
+{
+
+  "subject": "Тестирую своего smtp-клиента",
+
+  "body": "Забирай свои аттачменты",
+
+  "receivers": [
+    "Geratopttus@yandex.ru"
+  ],
+
+  "attachments": [
+    "attachment.txt",
+    "my_photo.jpg"
+  ]
+
+}
